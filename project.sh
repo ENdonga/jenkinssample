@@ -1,1 +1,1 @@
-echo "This is my Jenkins project. Testing is complete"
+echo "This is my Jenkins project. First test complete"
